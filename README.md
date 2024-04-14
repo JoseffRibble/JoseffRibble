@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please see my Codeburg for more projects: https://codeberg.org/JoseffRibble
+
 <!--
 **JoseffRibble/JoseffRibble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
